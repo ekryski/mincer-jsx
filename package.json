@@ -10,10 +10,10 @@
     "mincer": "~1.0"
   },
   "peerDependencies": {
+    "react-tools": "~0.10.0"
     "mincer": "~1.0"
   },
   "dependencies": {
-    "react-tools": "~0.10.0"
   },
   "repository": {
     "type": "git",

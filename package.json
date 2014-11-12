@@ -13,7 +13,7 @@
     "mincer": "~1.0"
   },
   "dependencies": {
-    "react-tools": "git://github.com/ekryski/react.git#jsxns-0.10.0",
+    "react-tools": "git://github.com/ekryski/react.git#jsxns-0.10.0"
   },
   "repository": {
     "type": "git",
